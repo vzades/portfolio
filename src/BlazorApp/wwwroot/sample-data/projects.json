@@ -2,23 +2,28 @@
   {
     "title": "Manifestation of the unmanifested: Shiva Sculptures of Kailash Temple, Ellora 🧘",
     "description": "One of the most remarkable and extensive excavations at Ellora is Cave 16, a scooped out monolithic rock-cut shrine dedicated to Lord Shiva",
-    "url": "https://www.sahapedia.org/manifestation-unmanifested-shiva-sculptures-kailash-temple-ellora"
+    "url": "https://www.sahapedia.org/manifestation-unmanifested-shiva-sculptures-kailash-temple-ellora",
+    "img": "images/Kailasha.png"
   },
   {
     "title": "CHAUBAR DERA I: A DIVINE ABODE OF SHIVA🧘",
     "description": "Chaubar Dera I is one of the largest amongst a group of temples situated in the village of Un located in the Khargone district of Madhya Pradesh",
-    "url": "https://criticalcollective.in/SearchResult.aspx?search=Chaubar%20Dera"
+    "url": "https://criticalcollective.in/SearchResult.aspx?search=Chaubar%20Dera",
+    "img": "images/chaubara.jpg"
   },
   {
     "title": "The hidden base of the Beejamandal Temple: The Untold story of the marvel of khajuraho 🛕",
     "description": "Article Published in Art , Design and Society",
-    "url": "http://nmi.gov.in/downloads/Publications/UK16HoAPublicationCIHA2021.pdf"
+    "url": "http://nmi.gov.in/downloads/Publications/UK16HoAPublicationCIHA2021.pdf",
+    "img": "images/art.jpg"
   },
   {
     "title": "The Visual Narrative of Valour in Harshnath Temple 💪🏻",
     "description": "Article Published in Magazine Art and deal",
-    "url": "https://drive.google.com/file/d/1X4NOmL_O6yE5jEwl_WBoxOpUrCvXez52/view?usp=share_link"
+    "url": "https://drive.google.com/file/d/1X4NOmL_O6yE5jEwl_WBoxOpUrCvXez52/view?usp=share_link",
+    "img": "images/artanddeal.jpg"
   }
+  
 
   
 ]
